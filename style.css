@@ -1,0 +1,29 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: aquamarine;
+}
+#time{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: aquamarine;
+}
+body{
+    background-color: black;
+}
+h1{
+    background-color: black;
+    color: plum;
+    font-family: 'Oswald', sans-serif;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: white;
+}
